@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Crypt0png
-- 👀 I’m interested in create a programms.
+- 👀 I’m interested in creating programms.
 - 🌱 I’m currently learning Python
 
 <!---
